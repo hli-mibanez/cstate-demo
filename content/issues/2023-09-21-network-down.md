@@ -2,7 +2,7 @@
 section: issue
 title: "Network Down "
 date: 2023-09-21T21:27:41.349Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: false
