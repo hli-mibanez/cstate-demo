@@ -1,6 +1,7 @@
 ---
-title: Example Page
-description: This is an example page that demonstrates the capabilities of a Markdown page in cState.
+title: HLITest Page
+description: This is an example page that demonstrates the capabilities of a
+  Markdown page in cState by HLI
 ---
 
 Title here!
